@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zca:home|Door43 (zca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zca|d43-zca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zca/archive/master.zip|d43-zca.zip]]
+
+**Recent Changes**
+{{changes>ns = zca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zca|Ethnologue data]]
+
